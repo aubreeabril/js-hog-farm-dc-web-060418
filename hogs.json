@@ -37,15 +37,6 @@
       "image": "./hog-imgs/piggy_smalls.jpg"
     },
     {
-      "id": 4,
-      "name": "Trouble",
-      "specialty": "Racing",
-      "greased": true,
-      "weight as a ratio of hog to LG - 24.7 Cu. Ft. French Door Refrigerator with Thru-the-Door Ice and Water": 1.7,
-      "highest medal achieved": "gold",
-      "image": "./hog-imgs/trouble.jpg"
-    },
-    {
       "id": 5,
       "name": "Sobriety",
       "specialty": "Expert Witness",
